@@ -1,6 +1,6 @@
 {
   "name": "@stackspot/cdk-env-load-balancer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Component to create an Application Load Balancer.",
   "keywords": [
     "aws-cdk",
