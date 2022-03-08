@@ -1,13 +1,13 @@
 {
   "name": "@stackspot/cdk-env-load-balancer",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Component to create an Application Load Balancer.",
   "keywords": [
     "aws-cdk",
     "load-balancer"
   ],
   "bugs": "https://github.com/stack-spot/load-balancer-env-jsii-component/issues",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "author": {
     "name": "StackSpot",
     "email": "contact@stackspot.com"
